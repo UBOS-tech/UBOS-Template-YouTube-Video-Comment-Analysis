@@ -1,0 +1,8 @@
+[submodule "UBOS-template-youtube-analyst-ui"]
+	path = UBOS-template-youtube-analyst-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-youtube-analyst-ui.git
+	branch = main
+[submodule "UBOS-template-youtube-analyst-nr"]
+	path = UBOS-template-youtube-analyst-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-youtube-analyst-nr.git
+	branch = main
