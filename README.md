@@ -1,4 +1,4 @@
-# UBOS-Template-Get-Feedback
+# UBOS-Template-YouTube-Video-Comment-Analysis
 
 <p align="center">
   <img width="50%" align="center" alt="Ubos - End-to-End Software Development Platform" src="https://ubos.tech/wp-content/uploads/2023/03/cropped-Group-21015-1.png">
